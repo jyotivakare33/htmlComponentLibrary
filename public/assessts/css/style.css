@@ -1,0 +1,40 @@
+td, th{
+    border: 1px solid aqua;
+    text-align: center;
+    background-color: rgb(147, 231, 231);
+    color:black;
+}
+th {
+    background-color: rgb(47, 161, 161);
+}
+table {
+    border-collapse: collapse;
+    margin-top: 1rem;
+    width:100rem;
+}
+.box {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+    text-transform: uppercase;
+    text-decoration: underline;
+    line-height: 20px;
+    text-align: center;
+    background-color: brown;
+
+    height: 20px;
+    width: 100px;
+    padding: 60px 20px;
+    margin: 20px;
+    border: 10px solid black;
+}
+nav{
+    margin-bottom: 2rem;
+    margin-right:2rem;
+}
+nav a{
+    margin-right:1rem;
+}
